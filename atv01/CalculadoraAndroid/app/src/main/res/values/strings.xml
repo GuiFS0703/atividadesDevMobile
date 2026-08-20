@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculadora Android</string>
+    <string-array name="opcoes_spinner">
+        <item>Soma</item>
+        <item>Subtração</item>
+        <item>Divisão</item>
+        <item>Multiplicação</item>
+    </string-array>
+</resources>
